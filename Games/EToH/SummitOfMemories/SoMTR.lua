@@ -1,0 +1,30 @@
+return function()
+    return {
+        "ToAST(C)",
+        "ToA(C)",
+        "ToPHaT(C)",
+        "ToFT(C)",
+        "ToM(C)",
+        "SoAS(C)",
+        "ToAD(C)",
+        "ToDS(C)",
+        "ToCOF(C)",
+        "SoRO(C)",
+        "ToHS(C)",
+        "ToOH(C)",
+        "ToMH(C)",
+        "ToL(C)",
+        "ToTM(C)",
+        "ToLL(C)",
+        "ToS(C)",
+        "SoCA(C)",
+        "ToR(C)",
+        "ToT(C)",
+        "ToAV(C)",
+        "SoWC(C)",
+        "SoDD(C)",
+        "CoGS(C)",
+        "ToUT(C)",
+        "CoWN(C)"
+    }
+end
